@@ -55,7 +55,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Visit Us',
-      details: ['123 Beauty Lane', 'Wellness City, WC 12345', 'Near Central Mall']
+      details: ['Shop 11', 'Unity by Lotus', 'Opp Air india Colony']
     },
     {
       icon: Phone,
@@ -65,7 +65,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email Us',
-      details: ['info@avocadobeautyclinic.com', 'bookings@avocadobeautyclinic.com', 'Quick Response Guaranteed']
+      details: ['info@avocadobeautyclinic.com', 'bookings@avocadobeautyclinic.com', 'Quick Response']
     },
     {
       icon: Clock,
@@ -194,7 +194,7 @@ const Contact = () => {
                       <MapPin className="h-12 w-12 text-primary mx-auto mb-4" />
                       <h3 className="text-lg font-semibold text-gray-900 mb-2">Find Us on Map</h3>
                       <p className="text-gray-600">Interactive map coming soon</p>
-                      <p className="text-sm text-gray-500 mt-2">123 Beauty Lane, Wellness City</p>
+                      <p className="text-sm text-gray-500 mt-2">Shop 11, Unity by Lotus</p>
                     </div>
                   </div>
                 </CardContent>

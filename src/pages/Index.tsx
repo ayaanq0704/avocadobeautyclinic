@@ -28,13 +28,13 @@ const Index = () => {
   const whyChooseUs = [
     {
       icon: Award,
-      title: 'Certified Experts',
-      description: 'Trained professionals with years of experience'
+      title: 'Experts',
+      description: 'Trained professionals with alot of experience'
     },
     {
       icon: Heart,
       title: 'Clean & Hygienic',
-      description: 'Maintained to the highest standards'
+      description: 'Maintained to meet your standards'
     },
     {
       icon: Star,
@@ -58,8 +58,8 @@ const Index = () => {
         <div className="relative max-w-7xl mx-auto text-center">
           <div className="animate-fade-in">
             <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6">
-              Feel Beautiful. 
-              <span className="text-primary block">Stay Smooth.</span>
+              One Stop Destination.
+              <span className="text-primary block">For All Your Beauty Needs.</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto">
               Complete hair removal and beauty solutions to beautify you with a cleaner look.

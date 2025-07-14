@@ -50,7 +50,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3">
                 <MapPin className="h-5 w-5 text-primary" />
-                <span className="text-gray-300">123 Beauty Lane, Wellness City, WC 12345</span>
+                <span className="text-gray-300">Shop 11, Unity by Lotus</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone className="h-5 w-5 text-primary" />
@@ -67,7 +67,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-8 pt-8 text-center">
           <p className="text-gray-300">
-            © 2024 Avocado Beauty Clinic. All rights reserved. | Made with 💚 for beautiful you
+            © 2024 Avocado Beauty Clinic. All rights reserved.
           </p>
         </div>
       </div>
